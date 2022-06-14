@@ -24,11 +24,7 @@
 
 <table style="width:100%;">
   <tr>
-    <td>
-    ![](https://github-readme-stats.vercel.app/api?username=PhuocThanh1604&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PhuocThanh1604&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhuocThanh1604&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-    </td>
+    
     <td>
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
