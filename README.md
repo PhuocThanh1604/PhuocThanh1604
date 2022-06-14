@@ -24,7 +24,6 @@
 
 <table style="width:100%;">
   <tr>
-    
     <td>
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
@@ -32,7 +31,6 @@
     </td>
   </tr>
 </table>
-
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=PhuocThanh1604&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
