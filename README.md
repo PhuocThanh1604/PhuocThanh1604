@@ -2,11 +2,11 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
-[![](https://visitcount.itsvg.in/api?id=PhuocThanh1604&icon=0&color=0)](https://visitcount.itsvg.in)
+
 - ✍ I'm a student of: [FPT University Ho Chi Minh city  ](https://daihoc.fpt.edu.vn/) (FPTU).
 
 - 🌱 I’m currently learning **Fontend and Backend.**
-
+[![](https://visitcount.itsvg.in/api?id=PhuocThanh1604&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/phuocthanh01/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pt.tt1604/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/thanhvp04?fbclid=IwAR2zt64inYDiu39dpjN8ER7vmvXraQwAXLB29nLDggizF6PrsqN3UYXm4qY) 
 # 💻Tech Stack
