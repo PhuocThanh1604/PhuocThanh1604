@@ -6,6 +6,17 @@
 - ✍ I'm a student of: [FPT University Ho Chi Minh city  ](https://daihoc.fpt.edu.vn/) (FPTU).
   
 - 🌱 I’m currently learning **Fontend and Backend.**
+  
+  
+  <table style="width:100%;">
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/phuocthanh01/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pt.tt1604/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/thanhvp04?fbclid=IwAR2zt64inYDiu39dpjN8ER7vmvXraQwAXLB29nLDggizF6PrsqN3UYXm4qY) 
@@ -21,17 +32,6 @@
 ![](https://github-trophies.vercel.app/?username=PhuocThanh1604&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
-
-<table style="width:100%;">
-  <tr>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
 # Certificates:
 
 <p align="center">
