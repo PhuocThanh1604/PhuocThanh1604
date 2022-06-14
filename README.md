@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Fontend and Backend.**
   
   
-  <table style="width:100%;">
+  <table style="width:50%;">
   <tr>
     <td>
       <p align="center"> 
