@@ -12,7 +12,7 @@
   <tr>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="dev" width="100%"/>
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="dev" width="50%"/>
       </p>
     </td>
   </tr>
