@@ -1,6 +1,18 @@
 - ✍ I'm a student of: [FPT University Ho Chi Minh city  ](https://daihoc.fpt.edu.vn/) (FPTU).
   
 - 🌱 I’m currently learning **Full-Stack.**
+
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
     <td>
       <p align="center"> 
         <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="dev" width="50%"/>
@@ -15,18 +27,7 @@
 ---
 # 📊GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhuocThanh1604&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+
 
 ---
 # Certificates:
