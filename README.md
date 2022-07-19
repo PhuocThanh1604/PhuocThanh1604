@@ -14,7 +14,7 @@
 # 📊GitHub Stats :
 [![GitHub Streak]
 (http://github-readme-streak-stats.herokuapp.com?user=PhuocThanh1604&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
 
 ---
 # Certificates:
