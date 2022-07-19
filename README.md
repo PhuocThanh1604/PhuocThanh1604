@@ -14,7 +14,7 @@
 # 📊GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhuocThanh1604&theme=synthwave&hide_border=true&border=2873DD&dates=DDDBDB&stroke=DD0A0A&fire=DD2727&sideNums=DDC926)](https://git.io/streak-stats)
 
-<p align="right" align="top"> <img src="https://github-readme-stats.vercel.app/api?username=PhuocThanh1604&show_icons=true&theme=gotham" alt="PhuocThanh1604" />
+<p align="right" > <img src="https://github-readme-stats.vercel.app/api?username=PhuocThanh1604&show_icons=true&theme=gotham" alt="PhuocThanh1604" style="button=250"/>
 
 ---
 # Certificates:
