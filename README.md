@@ -15,7 +15,18 @@
 ---
 # 📊GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhuocThanh1604&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?PhuocThanh1604=anuraghazra&show_icons=true&theme=radical)
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
 
 ---
 # Certificates:
