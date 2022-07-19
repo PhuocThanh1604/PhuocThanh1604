@@ -12,7 +12,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/PhuocThanh1604/)
 
 
-### <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> A little more about me...  
+
 
 
 ## 🌐Socials
