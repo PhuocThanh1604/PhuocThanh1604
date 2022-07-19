@@ -13,7 +13,7 @@
 ---
 # 📊GitHub Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhuocThanh1604&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu"  width="500" height="260" />
 
 ---
 # Certificates:
