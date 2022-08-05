@@ -37,10 +37,5 @@
   <a href="https://coursera.org/share/d0f6ae77c997741fc8bc134b3b7be186">
     <img alt="Web Design for Everybody: Basics of Web Development & Coding" title="Machine Learning Onramp" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4KK4GFXR9C4C/CERTIFICATE_LANDING_PAGE~4KK4GFXR9C4C.jpeg" width="300px" />
   </a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/9YJMB8JW3SH6">
-    <img alt="Web Design for Everybody: Basics of Web Development & Coding" title="Machine Learning Onramp" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4KK4GFXR9C4C/CERTIFICATE_LANDING_PAGE~4KK4GFXR9C4C.jpeg" width="300px" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/WDXR6YDKMBBB">
-    <img alt="Web Design for Everybody: Basics of Web Development & Coding" title="Machine Learning Onramp" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4KK4GFXR9C4C/CERTIFICATE_LANDING_PAGE~4KK4GFXR9C4C.jpeg" width="300px" />
-  </a>
+ 
 </p>
